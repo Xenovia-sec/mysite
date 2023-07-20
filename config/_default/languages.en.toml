@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Okan Avcı"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[params]
+  # mainSections = ["section1", "section2"]
+
+[author]
+name = "Okan Avcı"
+image = "img/author.png"
+headline = "A Gym Rat Living on Other People's Web Servers."
+bio = "A Gym Rat Living on Other People's Web Servers."
+links = [
+  { github = "https://github.com/Xenovia-sec" },
+  { twitter = "https://twitter.com/OkanAvc16" },
+]
